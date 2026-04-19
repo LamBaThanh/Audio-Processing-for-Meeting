@@ -24,8 +24,8 @@ Các thư viện: librosa, numpy, scipy, matplotlib, sklearn (xem chi tiết tro
 git clone https://github.com/LamBaThanh/Audio-Processing-for-Meeting.git
 cd Audio-Processing-for-Meeting
 
-# Cài đặt các dependencies
-pip install -r requirements.txt  # Nếu có tệp này
-
 # Khởi chạy Jupyter
 jupyter notebook
+
+# Dữ liệu
+https://drive.google.com/drive/folders/1CxxKTeo4n9Y3ZcA-Yhtr9VMz2I9QDBcc?usp=sharing
