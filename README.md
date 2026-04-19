@@ -20,7 +20,6 @@ Python 3.7+
 Jupyter Notebook
 Các thư viện: librosa, numpy, scipy, matplotlib, sklearn (xem chi tiết trong notebook)
 
-Cài Đặt
 # Clone repository
 git clone https://github.com/LamBaThanh/Audio-Processing-for-Meeting.git
 cd Audio-Processing-for-Meeting
